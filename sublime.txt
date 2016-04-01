@@ -1,0 +1,7 @@
+--Packages pro sublime:
+
+> Emmet
+> Pretty JSON
+> AutoFileName
+> SideBar Enhancements
+> Libraries for CDN
